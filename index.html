@@ -4,21 +4,12 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-$for(author-meta)$
-  <meta name="author" content="$author-meta$" />
-$endfor$
-$if(date-meta)$
-  <meta name="dcterms.date" content="$date-meta$" />
-$endif$
-$if(keywords)$
-  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
-$endif$
-$if(description-meta)$
-  <meta name="description" content="$description-meta$" />
-$endif$
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
-$for(css)$
-  <link rel="stylesheet" href="$css$" />
+  <meta name="author" content="sapphonomicon" />
+  <meta name="dcterms.date" content="29-August-2024" />
+  <title>Welcome, USER!</title>
+  <title>To this Personal Data Interface!</title>
+  <link rel="stylesheet" href="reset.css" />
+  <link rel="stylesheet" href="index.css" />
 $endfor$
 $for(header-includes)$
   $header-includes$
@@ -28,6 +19,7 @@ $if(math)$
 $endif$
 </head>
 <body>
+  
 $for(include-before)$
 $include-before$
 $endfor$
