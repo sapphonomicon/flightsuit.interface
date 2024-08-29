@@ -1,2 +1,2 @@
-# flightsuit.interface
+# terminal
 Personal Blog/Guestbook/Misc.
