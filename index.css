@@ -4,10 +4,10 @@
   --font-family: "JetBrains Mono", monospace;
   --line-height: 1.20rem;
   --border-thickness: 2px;
-  --text-color: #000;
-  --text-color-alt: #666;
-  --background-color: #fff;
-  --background-color-alt: #eee;
+  --text-color: #fff;
+  --text-color-alt: #eee;
+  --background-color: #000;
+  --background-color-alt: #666;
 
   --font-weight-normal: 500;
   --font-weight-medium: 600;
