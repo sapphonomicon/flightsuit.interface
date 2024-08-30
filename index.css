@@ -23,10 +23,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: #fff;
-    --text-color-alt: #aaa;
+    --text-color: #FFB000;
+    --text-color-alt: #eee;
     --background-color: #000;
-    --background-color-alt: #111;
+    --background-color-alt: #aaa;
   }
 }
 
