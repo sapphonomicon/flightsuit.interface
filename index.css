@@ -5,7 +5,7 @@
   --line-height: 1.20rem;
   --border-thickness: 2px;
   --text-color: #FFB000;
-  --text-color-alt: #eee;
+  --text-color-alt: #FFB000;
   --background-color: #000;
   --background-color-alt: #666;
 
@@ -24,7 +24,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: #FFB000;
-    --text-color-alt: #eee;
+    --text-color-alt: #FFB000;
     --background-color: #000;
     --background-color-alt: #aaa;
   }
